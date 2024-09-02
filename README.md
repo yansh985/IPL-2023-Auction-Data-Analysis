@@ -5,7 +5,7 @@ This project involves a comprehensive analysis of the IPL 2023 Auction dataset, 
 
 ## Dataset Description
 The dataset contains information about players in the IPL 2023 Auction, including:
-1. Sr no.
+1. Player no. (like sr no.)
 2. Player
 3. Base Price
 4. TYPE
